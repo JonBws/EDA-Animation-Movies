@@ -17,7 +17,7 @@ Here are some questions that need further analysis
 
 ## Result
 ### 1. What animated movie has the longest runtime?
-![1](Result/1.png)
+![1](Result/1.png) <br>
 On the chart bar above is shown an animated movie based on runtime, on the top three positions are Giant 600 Cartoon Collection, 200 Family Cartoons Collection Vol. 1, and 150 Cartoon Clasics. which is a collection of several cartoons from various studios and eras such as popeye, bety boop, woody woodpecker and others.
 
 ### 2. What is the correlation between revenue and budget?
