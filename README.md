@@ -13,7 +13,8 @@ Here are some questions that need further analysis
 6. Which animated movie is the most popular?
 7. Which animated genre is produced the most?
 8. Which country is the driving force behind global animation?
-9. What language is used the most in animated film production? 10. Do all animated films make a profit?
+9. What language is used the most in animated film production?
+10. 10. Do all animated films make a profit?
 
 ## Result
 ### 1. What animated movie has the longest runtime?
