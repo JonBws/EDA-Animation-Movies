@@ -17,7 +17,7 @@ Here are some questions that need further analysis
 
 ## Result
 1. What animated movie has the longest runtime?
-   ![1](Result/1.png)
+![1](Result/1.png)
    
 
 
